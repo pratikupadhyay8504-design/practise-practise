@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0344-reverse-string) |
 ## Tree
 |  |
