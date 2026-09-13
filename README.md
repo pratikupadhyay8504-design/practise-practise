@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0059-spiral-matrix-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0059-spiral-matrix-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -29,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0018-4sum) |
 | [0344-reverse-string](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0344-reverse-string) |
 ## String
 |  |
