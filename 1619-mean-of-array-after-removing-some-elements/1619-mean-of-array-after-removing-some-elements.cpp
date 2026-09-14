@@ -4,7 +4,7 @@ public:
         int n=nums.size();
         sort(nums.begin(),nums.end());
         int k=n/20;
-        int sum=0.0;
+        int sum=0;
         for(int i=k;i<n-k;i++){
             sum=sum+nums[i];
 
