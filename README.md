@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1032-stream-of-characters](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1032-stream-of-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -54,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0018-4sum) |
 | [0202-happy-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
