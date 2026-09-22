@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0220-contains-duplicate-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1001-grid-illumination](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1001-grid-illumination) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -137,8 +139,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0220-contains-duplicate-iii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0202-happy-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
