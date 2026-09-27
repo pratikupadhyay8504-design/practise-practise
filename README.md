@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0713-subarray-product-less-than-k) |
 | [1001-grid-illumination](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1001-grid-illumination) |
 | [1032-stream-of-characters](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1032-stream-of-characters) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0713-subarray-product-less-than-k) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1001-grid-illumination](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1001-grid-illumination) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Sorting
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -75,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
