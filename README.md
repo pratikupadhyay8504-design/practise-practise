@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3516-find-closest-person](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3516-find-closest-person) |
 ## Counting
 |  |
