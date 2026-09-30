@@ -125,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0059-spiral-matrix-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0202-happy-number) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3516-find-closest-person](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3516-find-closest-person) |
 ## Counting
