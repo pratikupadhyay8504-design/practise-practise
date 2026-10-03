@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2574-left-and-right-sum-differences) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3516-find-closest-person](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3516-find-closest-person) |
 ## Counting
 |  |
@@ -203,8 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2270-number-of-ways-to-split-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2574-left-and-right-sum-differences](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2574-left-and-right-sum-differences) |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Enumeration
 |  |
 | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+## Combinatorics
+|  |
+| ------- |
+| [3179-find-the-n-th-value-after-k-seconds](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 <!---LeetCode Topics End-->
