@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1991-find-the-middle-index-in-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1991-find-the-middle-index-in-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Enumeration
 |  |
