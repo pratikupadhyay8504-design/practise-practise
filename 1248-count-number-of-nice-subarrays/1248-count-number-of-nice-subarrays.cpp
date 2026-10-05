@@ -2,10 +2,10 @@ class Solution {
 public:
     int atmost(vector<int>& nums, int k) {
         int lft=0;
-        int rgt,n=nums.size();
+        int n=nums.size();
         int oddcnt=0;
         int ttlcnt=0;
-        for(rgt=0;rgt<n;rgt++){
+        for(int rgt=0;rgt<n;rgt++){
             if(nums[rgt]%2!=0){
                 oddcnt++;
             }
@@ -21,8 +21,6 @@ public:
     }
 
     int numberOfSubarrays(vector<int>& nums, int k) {
-        return atmost(nums,k)-atmost(nums,k-1);
-        
-        
+        return atmost(nums,k)-atmost(nums,k-1);        
     }
 };
