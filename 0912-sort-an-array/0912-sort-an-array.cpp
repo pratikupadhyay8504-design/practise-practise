@@ -1,29 +1,47 @@
 class Solution {
 public:
-    int partition(vector<int>& nums, int low, int high){
-        int pivot = nums[low];
-        int i = low, j = high;
-        while(i < j){
-            while(nums[i] <= pivot && i <= high - 1){
+    void merge(vector<int>& nums, int left, int mid, int right) {
+        int n1 = mid - left + 1;
+        int n2 = right - mid;
+        vector<int> L(n1), R(n2);
+        
+        for (int i = 0; i < n1; ++i) L[i] = nums[left + i];
+        for (int j = 0; j < n2; ++j) R[j] = nums[mid + 1 + j];
+        
+        int i = 0, j = 0, k = left;
+        while (i < n1 && j < n2) {
+            if (L[i] <= R[j]) {
+                nums[k] = L[i];
                 i++;
+            } else {
+                nums[k] = R[j];
+                j++;
             }
-            while(nums[j] > pivot && j >= low + 1){
-                j--;
-            }
-            if(i < j) swap(nums[i], nums[j]);
+            k++;
         }
-        swap(nums[low], nums[j]);
-        return j;
-    }
-    void qs(vector<int>& nums, int low, int high){
-        if(low < high){
-            int pindex= partition(nums, low, high);
-            qs(nums, low, pindex - 1);
-            qs(nums, pindex + 1, high);
+        
+        while (i < n1) {
+            nums[k] = L[i];
+            i++;
+            k++;
+        }
+        
+        while (j < n2) {
+            nums[k] = R[j];
+            j++;
+            k++;
         }
     }
+    void mergeSort(vector<int>& nums, int left, int right) {
+        if (left >= right) return;
+        int mid = left + (right - left) / 2;
+        mergeSort(nums, left, mid);
+        mergeSort(nums, mid + 1, right);
+        merge(nums, left, mid, right);
+    }
+
     vector<int> sortArray(vector<int>& nums) {
-        qs(nums, 0, nums.size() - 1);
+        mergeSort(nums, 0, nums.size() - 1);
         return nums;
     }
 };
