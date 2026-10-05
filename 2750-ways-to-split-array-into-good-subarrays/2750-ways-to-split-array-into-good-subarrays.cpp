@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numberOfGoodSubarraySplits(vector<int>& nums) {
-        vector<int> v;
+        vector<int>v;
         bool first = false;
         int cnt = 0;
         for(int i = 0; i < nums.size(); i++) {
@@ -14,7 +14,6 @@ public:
                 cnt++;
             }
         }
-
         if(!first) 
             return 0; 
 
