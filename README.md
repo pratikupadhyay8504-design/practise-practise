@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0724-find-pivot-index) |
 | [0890-find-and-replace-pattern](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0890-find-and-replace-pattern) |
 | [0912-sort-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0912-sort-an-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1001-grid-illumination](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1001-grid-illumination) |
 | [1032-stream-of-characters](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1032-stream-of-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1248-count-number-of-nice-subarrays) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0890-find-and-replace-pattern](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0890-find-and-replace-pattern) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1001-grid-illumination](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1001-grid-illumination) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1480-running-sum-of-1d-array) |
