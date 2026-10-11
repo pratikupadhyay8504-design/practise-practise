@@ -18,9 +18,9 @@ public:
             size++;
         }
         temp=head;
-        int cnt=0;
+        int cnt=1;
         while(temp!=nullptr){
-            if((size/2)==cnt)
+            if((size/2)+1==cnt)
             return temp;
             cnt++;
             temp=temp->next;
