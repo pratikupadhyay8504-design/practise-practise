@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0138-copy-list-with-random-pointer) |
 | [0203-remove-linked-list-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
