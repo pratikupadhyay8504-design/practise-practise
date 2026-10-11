@@ -19,9 +19,9 @@ public:
         }
         if(size==1) return nullptr;
         temp=head;
-        int cnt=1;
+        int cnt=0;
         while(temp!=nullptr){
-            if((size/2)==cnt){
+            if((size/2)-1==cnt){
             ListNode*todlt=temp->next;
             temp->next=temp->next->next;
             delete todlt;
