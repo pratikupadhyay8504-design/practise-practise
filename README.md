@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0041-first-missing-positive) |
+| [0138-copy-list-with-random-pointer](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0217-contains-duplicate) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0138-copy-list-with-random-pointer) |
 | [0203-remove-linked-list-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
