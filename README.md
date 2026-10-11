@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3516-find-closest-person](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3516-find-closest-person) |
 ## Counting
@@ -275,8 +276,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0203-remove-linked-list-elements) |
+## Stack
+|  |
+| ------- |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
