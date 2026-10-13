@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2574-left-and-right-sum-differences) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
 |  |
 | ------- |
