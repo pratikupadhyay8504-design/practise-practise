@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0202-happy-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0138-copy-list-with-random-pointer) |
 | [0203-remove-linked-list-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1019-next-greater-node-in-linked-list) |
@@ -289,9 +291,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
