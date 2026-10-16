@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0728-self-dividing-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0287-find-the-duplicate-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Pigeonhole Principle
 |  |
 | ------- |
