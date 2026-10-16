@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1590-make-sum-divisible-by-p) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2270-number-of-ways-to-split-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
