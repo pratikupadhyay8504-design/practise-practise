@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
+| [4020-elevator-requests-i](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/4020-elevator-requests-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [4020-elevator-requests-i](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
 | ------- |
