@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2469-convert-the-temperature](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2769-find-the-maximum-achievable-number) |
