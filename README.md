@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1001-grid-illumination](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1001-grid-illumination) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1019-next-greater-node-in-linked-list) |
 | [1032-stream-of-characters](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1032-stream-of-characters) |
+| [1046-last-stone-weight](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
