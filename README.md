@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0138-copy-list-with-random-pointer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0217-contains-duplicate) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0287-find-the-duplicate-number) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0138-copy-list-with-random-pointer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0234-palindrome-linked-list) |
