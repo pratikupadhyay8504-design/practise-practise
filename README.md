@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0724-find-pivot-index) |
 | [0890-find-and-replace-pattern](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0890-find-and-replace-pattern) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0890-find-and-replace-pattern](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0890-find-and-replace-pattern) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1001-grid-illumination](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1001-grid-illumination) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0383-ransom-note) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0890-find-and-replace-pattern](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0890-find-and-replace-pattern) |
 | [1032-stream-of-characters](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1032-stream-of-characters) |
 ## Tree
