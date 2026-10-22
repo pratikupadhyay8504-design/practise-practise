@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [4020-elevator-requests-i](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/4020-elevator-requests-i) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1590-make-sum-divisible-by-p) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0713-subarray-product-less-than-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
