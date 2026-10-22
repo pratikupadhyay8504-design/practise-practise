@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0890-find-and-replace-pattern](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0890-find-and-replace-pattern) |
 | [1032-stream-of-characters](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1032-stream-of-characters) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Tree
 |  |
 | ------- |
