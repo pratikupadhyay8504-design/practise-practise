@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1822-sign-of-the-product-of-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2270-number-of-ways-to-split-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0713-subarray-product-less-than-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
