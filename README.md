@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1590-make-sum-divisible-by-p) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1695-maximum-erasure-value](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1695-maximum-erasure-value) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1590-make-sum-divisible-by-p) |
+| [1695-maximum-erasure-value](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1695-maximum-erasure-value) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sorting
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0220-contains-duplicate-iii](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0220-contains-duplicate-iii) |
 | [0713-subarray-product-less-than-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0713-subarray-product-less-than-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1248-count-number-of-nice-subarrays) |
+| [1695-maximum-erasure-value](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1695-maximum-erasure-value) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Floyd's Cycle Finding Algorithm
