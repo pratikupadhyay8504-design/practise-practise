@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2574-left-and-right-sum-differences](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2574-left-and-right-sum-differences) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [4020-elevator-requests-i](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/4020-elevator-requests-i) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
