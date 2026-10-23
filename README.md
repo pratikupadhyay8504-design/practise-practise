@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0890-find-and-replace-pattern](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0890-find-and-replace-pattern) |
 | [0912-sort-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0989-add-to-array-form-of-integer](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0989-add-to-array-form-of-integer) |
 | [1001-grid-illumination](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1001-grid-illumination) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1019-next-greater-node-in-linked-list) |
 | [1032-stream-of-characters](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1032-stream-of-characters) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0326-power-of-three) |
 | [0728-self-dividing-numbers](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0728-self-dividing-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0989-add-to-array-form-of-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
