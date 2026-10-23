@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1032-stream-of-characters](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1032-stream-of-characters) |
 | [1046-last-stone-weight](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1248-count-number-of-nice-subarrays) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0728-self-dividing-numbers](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0728-self-dividing-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1523-count-odd-numbers-in-an-interval-range) |
