@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0326-power-of-three) |
+| [2487-remove-nodes-from-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -371,11 +373,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
