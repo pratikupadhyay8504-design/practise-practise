@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [4020-elevator-requests-i](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/4020-elevator-requests-i) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1590-make-sum-divisible-by-p](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1590-make-sum-divisible-by-p) |
 | [1695-maximum-erasure-value](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/1695-maximum-erasure-value) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pratikupadhyay8504-design/practise-practise/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sorting
 |  |
